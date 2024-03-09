@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/CaoNgocCuong/digital-market/tree/production/public/facebook_cover_photo.png)
+![Project Image](./public/facebook_cover_photo.png)
 
 ## Features
 
